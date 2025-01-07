@@ -98,3 +98,7 @@ Contributions are welcome!
 - Commit changes: git commit -m "Add feature-name".
 - Push to the branch: git push origin feature-name.
 - Open a pull request.
+
+- Here is the code and it's output screenshot
+  ![Screenshot 2025-01-07 101438](https://github.com/user-attachments/assets/1274a057-ca0c-4b88-beb5-11c90409cc29)
+
